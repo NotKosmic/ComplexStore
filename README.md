@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	Uma simples loja que você pode enviar seu projetos pelo celular
+	Uma simples loja que você pode enviar seu projetos pelo celular!
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
 	<a href="#sobre">Sobre</a> •
-	<a href="#criado com">Criado com</a> •
+	<a href="#criado-com">Criado com</a> •
 	<a href="#contato">Contato</a> 
 </p>
 
