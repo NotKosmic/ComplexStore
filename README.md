@@ -18,9 +18,9 @@
 </h4>
 
 <p align="center">
-	<a href="#about">Sobre</a> •
-	<a href="#tech-stack">Criado com</a> •
-	<a href="#contact">Contato</a> 
+	<a href="#sobre">Sobre</a> •
+	<a href="#criado com">Criado com</a> •
+	<a href="#contato">Contato</a> 
 </p>
 
 ## Sobre:
@@ -28,7 +28,7 @@ Criada por um celular (no sketchware), essa loja permite que você envie seus pr
 
 ## Criado com:
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase" alt="firebase Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Sketchware-05122A?style=flat&logo=java" alt="firebase Badge" height="25">&nbsp;
 
 ## Contato:
 <img align="left" src="https://avatars.githubusercontent.com/NotKosmic?size=100">
